@@ -1,2 +1,2 @@
 # Huffman-Compression Data Structure
-More in the Huffman-Compression\Huffman code Assignment Doc
+More in the Huffman code Assignment Doc
